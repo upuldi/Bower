@@ -1,0 +1,21 @@
+{
+  "name": "firstProject",
+  "homepage": "https://github.com/upuldi/Bower",
+  "authors": [
+    "upuldi <upuldi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "underscore": "^1.8.3"
+  }
+}
